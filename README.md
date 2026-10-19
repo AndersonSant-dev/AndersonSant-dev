@@ -18,7 +18,7 @@ Desenvolvedor **Backend** com foco em **Java/Spring Boot**, experiência em **Ty
 
 | Categoria | Tecnologias |
 |-----------|-------------|
-| **Backend** | `Java 21` `Spring Boot 3` `Spring Data JPA` `Spring Security` `Spring WebFlux` `Node.js` `Python` |
+| **Backend** | `Java` `Spring Boot 3` `Spring Data JPA` `Spring Security` `Spring WebFlux` `Node.js` `Python` |
 | **Frontend** | `TypeScript` `Angular 17+` `React` `HTML5` `CSS3` `Tailwind CSS` |
 | **Banco de Dados** | `PostgreSQL` `MySQL` `H2` `Redis` `MongoDB` |
 | **Mensageria/Async** | `RabbitMQ` `Kafka` `Spring Events` `CompletableFuture` |
