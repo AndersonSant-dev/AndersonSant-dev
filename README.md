@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+sou+Atomicc2;Desenvolvedor+Backend+%7C+Fullstack;Java+%7C+Spring+Boot+%7C+TypeScript;Construindo+sistemas+robustos+e+escal%C3%A1veis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+sou+AndersonSant-dev;Desenvolvedor+Backend+%7C+Fullstack;Java+%7C+Spring+Boot+%7C+TypeScript;Construindo+sistemas+robustos+e+escal%C3%A1veis" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,12 +31,12 @@ Desenvolvedor **Backend** com foco em **Java/Spring Boot**, experiência em **Ty
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atomicc2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atomicc2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AndersonSant-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSant-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atomicc2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonSant-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ Desenvolvedor **Backend** com foco em **Java/Spring Boot**, experiência em **Ty
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 <a href="https://github.com/Atomicc2/WalletLedger">WalletLedger</a></h3>
+      <h3>💰 <a href="https://github.com/AndersonSant-dev/WalletLedger">WalletLedger</a></h3>
       <p><strong>Carteira digital enterprise-grade</strong> com ledger de partida dobrada, chaves de idempotência e processamento assíncrono.</p>
       <ul>
         <li>🔐 <strong>Consistência forte:</strong> Double-entry bookkeeping com ACID garantido</li>
@@ -63,7 +63,7 @@ Desenvolvedor **Backend** com foco em **Java/Spring Boot**, experiência em **Ty
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Atomicc2/AutoLabTC">AutoLabTC</a></h3>
+      <h3>🤖 <a href="https://github.com/AndersonSant-dev/AutoLabTC">AutoLabTC</a></h3>
       <p><strong>Plataforma Web completa</strong> para criação, simulação e análise de autômatos finitos e de pilha.</p>
       <ul>
         <li>🎯 <strong>Múltiplos tipos:</strong> AFD, AFND, AP, MT (Máquina de Turing)</li>
@@ -81,7 +81,7 @@ Desenvolvedor **Backend** com foco em **Java/Spring Boot**, experiência em **Ty
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/Atomicc2/AuthStackPage">AuthStackPage</a> + <a href="https://github.com/Atomicc2/auth-stack-api">auth-stack-api</a></h3>
+      <h3>🔐 <a href="https://github.com/AndersonSant-dev/AuthStackPage">AuthStackPage</a> + <a href="https://github.com/AndersonSant-dev/auth-stack-api">auth-stack-api</a></h3>
       <p><strong>Sistema de autenticação fullstack</strong> com JWT, refresh tokens, roles e validação robusta.</p>
       <ul>
         <li>🛡 <strong>Security:</strong> JWT Access + Refresh tokens, BCrypt, CORS configurado</li>
@@ -98,7 +98,7 @@ Desenvolvedor **Backend** com foco em **Java/Spring Boot**, experiência em **Ty
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/Atomicc2/JogoRestaUmUFS">JogoRestaUmUFS</a></h3>
+      <h3>🎮 <a href="https://github.com/AndersonSant-dev/JogoRestaUmUFS">JogoRestaUmUFS</a></h3>
       <p><strong>Jogo Resta Um (Peg Solitaire)</strong> em C — projeto acadêmico em grupo com foco em algoritmos e estrutura de dados.</p>
       <ul>
         <li>🧠 <strong>Algoritmos:</strong> Backtracking + heurísticas para solver automático</li>
@@ -116,7 +116,7 @@ Desenvolvedor **Backend** com foco em **Java/Spring Boot**, experiência em **Ty
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/Atomicc2/IMDb_database">IMDb_database</a></h3>
+      <h3>🎬 <a href="https://github.com/AndersonSant-dev/IMDb_database">IMDb_database</a></h3>
       <p><strong>Análise completa da base IMDb</strong> — ETL, modelagem dimensional e queries analíticas complexas.</p>
       <ul>
         <li>📥 <strong>ETL:</strong> Pipeline de ingestão + limpeza + transformação</li>
@@ -132,7 +132,7 @@ Desenvolvedor **Backend** com foco em **Java/Spring Boot**, experiência em **Ty
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/Atomicc2/Estrutura-de-Dados-I">Estrutura-de-Dados-I</a></h3>
+      <h3>📚 <a href="https://github.com/AndersonSant-dev/Estrutura-de-Dados-I">Estrutura-de-Dados-I</a></h3>
       <p><strong>Implementações canônicas</strong> de estruturas de dados fundamentais em C++ — base acadêmica sólida.</p>
       <ul>
         <li>📦 <strong>Estruturas:</strong> Lista, Pilha, Fila, Árvore (BST, AVL, Rubro-Negra), Heap, Hash, Grafo</li>
@@ -166,8 +166,8 @@ Desenvolvedor **Backend** com foco em **Java/Spring Boot**, experiência em **Ty
 ### 📫 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://github.com/Atomicc2">
-    <img src="https://img.shields.io/badge/GitHub-Atomicc2-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/AndersonSant-dev">
+    <img src="https://img.shields.io/badge/GitHub-AndersonSant-dev-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:andersonacpemp@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -184,7 +184,7 @@ Desenvolvedor **Backend** com foco em **Java/Spring Boot**, experiência em **Ty
 > **"Código limpo não é escrito seguindo um conjunto de regras. É escrito por alguém que se importa."** — *Michael Feathers*
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atomicc2&style=flat-square&color=00D4AA&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AndersonSant-dev&style=flat-square&color=00D4AA&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
